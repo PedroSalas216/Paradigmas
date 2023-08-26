@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "code/src/lib/json-20230227.jar",
+        "code/src/lib/spark-core_2.12-3.4.0.jar",
+        "code/src/lib/spark-sql_2.12-3.4.0.jar",
+        "/opt/spark/jars/scala-collection-compat_2.12-2.7.0.jar",
+        "/opt/spark/jars/scala-compiler-2.12.17.jar",
+        "/opt/spark/jars/scala-library-2.12.17.jar",
+        "/opt/spark/jars/scala-parser-combinators_2.12-2.1.1.jar",
+        "/opt/spark/jars/scala-reflect-2.12.17.jar",
+        "/opt/spark/jars/scala-xml_2.12-2.1.0.jar"
+    ]
+}
